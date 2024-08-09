@@ -2,9 +2,6 @@
 **Summary**
 This project involved analyzing a company's sales dataset in Power BI. The process included connecting and transforming the dataset in Power Query, creating necessary columns, and using DAX measures to answer key business questions. The final dashboard featured visualizations such as KPI cards displaying revenue, profit, and cost, as well as charts showing monthly and yearly sales, top products, customers, and regions.
 
-Detailed Description
-In this Power BI project, I conducted a comprehensive analysis of a company's sales dataset to provide actionable insights through an interactive dashboard. The project involved several key steps, from data transformation to advanced visualization.
-
 **Steps Involved:**
 
 **Data Connection and Transformation:**
